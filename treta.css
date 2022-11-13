@@ -1,0 +1,23 @@
+#sliki {
+    width: 900px;
+    height: 500px;
+    background-color: rgb(204, 230, 239);
+    }
+#zajak{
+    position:absolute; top:10px; left:0;
+}
+#zelka{
+    position:absolute; top:270px; left:0;
+}
+#button{
+  background-color: #275b89;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
